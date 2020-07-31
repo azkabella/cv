@@ -1,0 +1,19 @@
+body {
+  background-color:#30475e;
+  color: #ececec;
+  font-family: Roboto;
+  }
+h1, h3 {
+  color: #c1a57b;
+  font-family: Oswald;
+  }
+hr {
+    border:none;
+    border-top: 3px dotted;
+    color:#eee;
+    height:0;
+    width:5%;
+  }
+a {
+  color:#7e92a7;
+}
